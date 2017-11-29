@@ -1,0 +1,4 @@
+
+<tendency :sevenDate='sevenDate' :sevenDay='sevenDay'></tendency>
+
+<visitor-pie :pieData="pieData"></visitor-pie>
